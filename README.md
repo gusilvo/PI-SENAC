@@ -83,8 +83,9 @@ Este projeto foi desenvolvido em colaboração por toda a equipe. Todos os membr
 |---------|----------|
 | MICHAEL COSTA RIBEIRO | @michaelcostaribeiro  |
 | BRUNO FRESCHI CONTE | @brunofreschii  | 
-| BIANCA LIMA HABKOUK | @devbib  |
+| BIANCA LIMA HABKOUK | @devbibs  |
 | RICARDO RIGONI VIEIRA LIGO | @ricardoligosenac  |
 | GUSTAVO SILVA | @gusilvo  |
+
 
 
