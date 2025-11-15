@@ -2,7 +2,7 @@
 
 ## 💻 Descrição do Projeto
 
-Este repositório contém a documentação completa e os artefatos de modelagem e prototipação desenvolvidos para a Primeiras e a Segunda entregas do Projeto Integrador.
+Este repositório contém a documentação completa e os artefatos de modelagem e prototipação desenvolvidos para a Primeira e a Segunda entregas do Projeto Integrador.
 
 O foco é o desenvolvimento de um Sistema Orientado a Objetos para a gestão e cadastro de diferentes tipos de pessoas que interagem com uma grande universidade (Pessoa Física, Pessoa Jurídica, Professores, Fornecedores e Alunos).
 
@@ -86,6 +86,7 @@ Este projeto foi desenvolvido em colaboração por toda a equipe. Todos os membr
 | BIANCA LIMA HABKOUK | @devbibs  |
 | RICARDO RIGONI VIEIRA LIGO | @ricardoligosenac  |
 | GUSTAVO SILVA | @gusilvo  |
+
 
 
 
